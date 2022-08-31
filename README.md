@@ -1,0 +1,2 @@
+# Swap-It
+Final year Project in Mobile Application development using Flutter framework as front end and Firebase as back-end/database. This application is based on a barter system allowing customers to trade their products as well the option to negotiate prices and even them out according the item's worth. In-short, it's a buy and sell app with price negotiation option along with the option to exchange items(no use of money).
